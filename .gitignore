@@ -10,3 +10,4 @@
 /captures
 .externalNativeBuild
 /.test.gradle
+.idea
